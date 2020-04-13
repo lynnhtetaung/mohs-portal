@@ -1,0 +1,9 @@
+docs
+coverage/
+vendor/
+node_modules/
+.phpintel
+.env
+package-lock.json
+.DS_Store
+dist/
